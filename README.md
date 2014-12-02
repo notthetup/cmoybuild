@@ -1,4 +1,4 @@
 cmoybuild
 =========
 
-Schematics, DOM, Discussion for a CMOY Amp build
+Schematics, BOM, Discussion for a CMOY Amp build
