@@ -22,9 +22,6 @@
 |   | --Alt. dual op-amp OPA2132P                   | 1   | OPA | 35C1844    | –        |        |       |       |
 |   | --Alt. dual op-amp: OPA2134PA                 | 1   | OPA | –          | 285-8069 |        |       |       |
 | 9 | Power indicator LED, red diffused, 3mm        | 1   | D1  | 90F5862    | 588-386  |        |       |       |
-|   | --Alt. power LED, amber/yellow                | 1   | D1  | 96F2333    | 588-392  |        |       |       |
-|   | --Alt. power LED, green                       | 1   | D1  | 87F393     | 589-014  |        |       |       |
-|10 | Stereo mini jack (3.5mm)                      | 2   | I/O | 96F9608    | 476-328  |        |       |       |
-|   | --Alt. output jack (1/4" stereo)              | 1   | OUT | 84N1155    | 449-348  |        |       |       |
+|10 | Stereo mini jack (3.5mm)                      | 2   | I/O | 96F9608    | 476-328  | 8 + 2  | S$1.89| $18.90|
 |11 | Protoboard (recommended type)                 | 1   | BRD | 276-0150   | –        |        |       |       |
 |12 | AMP - 1-390261-2 - SOCKET IC                  | 1   | SOC | 1101345    | -        |  4     | S$0.15| S$0.60| 
