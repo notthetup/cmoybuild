@@ -25,6 +25,6 @@
 |   | --Alt. power LED, amber/yellow                | 1   | D1  | 96F2333    | 588-392  |        |       |       |
 |   | --Alt. power LED, green                       | 1   | D1  | 87F393     | 589-014  |        |       |       |
 |10 | Stereo mini jack (3.5mm)                      | 2   | I/O | 96F9608    | 476-328  |        |       |       |
-|11 | AMP - 1-390261-2 - SOCKET IC                  | 1   | SOC |            | 110-1345 |  4     | S$0.15| S$0.60| 
 |   | --Alt. output jack (1/4" stereo)              | 1   | OUT | 84N1155    | 449-348  |        |       |       |
 |11 | Protoboard (recommended type)                 | 1   | BRD | 276-0150   | –        |        |       |       |
+|12 | AMP - 1-390261-2 - SOCKET IC                  | 1   | SOC | 1101345    | -        |  4     | S$0.15| S$0.60| 
