@@ -18,7 +18,7 @@
 |   | --Alt. gain resistor, ~4.7 kΩ, gain 3         | 2   | R3  | 50N2120    | 148-663  |        |       |       |
 |   | --Alt. gain resistor, 10 kΩ, gain 2           | 2   | R3  | 84N1687    | 148-736  |        |       |       |
 | 7 | 10 kΩ 1/4 W metal film resistor               | 2   | R4  | 84N1687    | 148-736  |        |       |       |
-| 8 | Dual op-amp OPA2132PA                         | 1   | OPA | –          | 218-8281 |        |       |       |
+| 8 | Dual op-amp OPA2132PA                         | 1   | OPA | –          | 218-8281 |  4     | S$5.73| $22.92|
 |   | --Alt. dual op-amp OPA2132P                   | 1   | OPA | 35C1844    | –        |        |       |       |
 |   | --Alt. dual op-amp: OPA2134PA                 | 1   | OPA | –          | 285-8069 |        |       |       |
 | 9 | Power indicator LED, red diffused, 3mm        | 1   | D1  | 90F5862    | 588-386  |        |       |       |
