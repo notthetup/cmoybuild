@@ -1,7 +1,7 @@
 # Bill of Materials
 
 
-| N | Description                                   | Qty | ID  | Farnell    | RS       | Total  | Cost  | Status|
+| N | Description                                   | Qty | ID  | Element14  | RS       | Total  | Cost  | Status|
 |---|-----------------------------------------------|-----|-----|------------|----------|--------|-------|-------|
 | 1 | 220 µF/35 V electrolytic capacitor, radial    | 2   | C1  | 18C4706    | 315-0726 |  8 + 2 | S$1.43| $14.30|
 | 2 | 0.1 µF polypropylene film cap (large!)        | 2   | C2  | 89F3466    | 1612246  |  8 + 2 | S$1.48| $14.80|
