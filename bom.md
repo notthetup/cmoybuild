@@ -9,7 +9,7 @@
 | 4 | 100 kΩ 1/4 W metal film resistor              | 2   | R2  | 84N1685    | 148-972  |  8 + 2 | S$0.04| $0.37 |
 | 5 | 1 kΩ 1/4 W metal film resistor, gain 11       | 2   | R3  | 84N1712    | 148-506  |  8 + 2 | S$0.04| $0.37 |
 | 6 | 10 kΩ 1/4 W metal film resistor               | 3   | R4/RLED| 84N1687 | 148-736  | 12 + 3 | S$0.04| $0.60 |
-| 7 | Dual op-amp OPA2132PA                         | 1   | OPA | –          | 218-8281 |  4     | S$5.73| $22.92|
+| 7 | Dual op-amp OPA2132PA                         | 1   | OPA | 1212432    | 218-8281 |  4     | S$5.73| $22.92|
 | 8 | Power indicator LED, red diffused, 3mm        | 1   | D1  | 90F5862    | 588-386  |  4 + 6 | S$0.11| $1.10 |
 | 9 | Stereo mini jack (3.5mm)                      | 2   | I/O | 96F9608    | 476-328  |  8 + 2 | S$1.89| $18.90|
 |10 | Protoboard (recommended type)                 | 1   | BRD | 276-0150   | –        |  2     | S$1.00| $2.00 |
