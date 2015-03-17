@@ -12,7 +12,7 @@
 | 7 | Dual op-amp OPA2132PA                         | 1   | OPA | 1212432    | 218-8281 |  4     | S$5.73| $22.92|
 | 8 | Power indicator LED, red diffused, 3mm        | 1   | D1  | 90F5862    | 588-386  |  4 + 6 | S$0.11| $1.10 |
 | 9 | Stereo mini jack (3.5mm)                      | 2   | I/O | 96F9608    | 476-328  |  8 + 2 | S$1.89| $18.90|
-|10 | Protoboard (recommended type)                 | 1   | BRD | 276-0150   | –        |  2     | S$1.00| $2.00 |
+|10 | Protoboard (73mm x 48mm)                      | 1   | BRD | 276-0150   | –        |  2     | S$1.00| $2.00 |
 |11 | AMP - 1-390261-2 - SOCKET IC                  | 1   | SOC | 1183572    | -        |  4 + 1 | S$0.15| $0.75 | 
 |12 | RK097 Series Pot 10kΩ ±20% 0.05W              | 1   | SOC | -          | 729-3521 |  4     | S$6.82| $27.28| 
 |13 | BATTERY STRAP, 9V, WIRE LEAD                  | 2   | STP | 1153018    | -        |  8 + 2 | S$0.69| $6.92 | 
